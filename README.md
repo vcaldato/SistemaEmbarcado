@@ -7,7 +7,7 @@
 
 # Esquemático
 
-![Esquemático](Anexos/esquematico2.png)
+![Esquemático](Anexos/esquemático3.png)
 
 
 ## Introdução
