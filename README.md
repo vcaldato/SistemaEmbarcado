@@ -115,5 +115,11 @@ Adicione os capacitores C2 e C3 para melhorar a filtragem.
 Solde o resistor R1 e o LED D1 para a indicação de funcionamento.
 Conecte os terminais J1 e J2 para a entrada e saída do circuito.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+# 3D
+![3D](Anexos/CimaDo3d.png)   
+![3D](Anexos/BaixoDo3d.png)
 
-
+# Resumo
+As imagens 3D representam a placa de circuito impresso (PCB) do retificador de onda completa com regulador 7805. Nelas, é possível visualizar a disposição dos componentes, incluindo a ponte retificadora (BR1), o regulador de tensão 7805 (U1), capacitores de filtragem (C1, C2, C3), um LED indicador (D1) com resistor (R1) e os conectores de entrada (J2) e saída (J1). A segunda imagem exibe o lado inferior da PCB, destacando as trilhas condutoras e pontos de soldagem, essenciais para o funcionamento correto do circuito.
