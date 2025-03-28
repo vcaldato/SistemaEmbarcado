@@ -1,5 +1,14 @@
-![Esquemático](Anexos/Esquemático.png)
+<h1 align="center"> Sistemas Embarcados </h1>
+
+<p align="center">
+
+
 # README - Retificador de Onda Completa com Regulador 7805 ###
+
+# Esquemático
+
+![Esquemático](Anexos/Esquemático.png)
+
 
 ## Introdução
 
@@ -48,9 +57,12 @@ Conecte os terminais J1 para obter a saída regulada de 5V.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
+ # Prática 
 ![Prática](Anexos/Prática.png)
 
-
+## Resumo da Prática
+A imagem mostra a montagem e a medição de um circuito eletrônico em uma protoboard. O circuito é o retificador de onda completa com regulador de tensão 7805, conforme descrito. Um multímetro digital está sendo usado para medir a tensão ou corrente do circuito. No ambiente, há um laptop com um diagrama esquemático do projeto na tela, além de ferramentas como alicates e fita isolante. A prática ocorreu em um ambiente de laboratório, onde os componentes foram testados para garantir que o circuito forneça uma saída DC estável de 5V.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------
